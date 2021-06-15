@@ -1,0 +1,168 @@
+* {
+    margin: o;
+    padding: o;
+}
+
+* {
+    margin: 0;
+    
+}
+
+html,
+body {
+    height: 100%;
+    font-family: poppins;
+    
+}
+
+body {
+    font-family: poppins;
+}
+
+.container-fluid {
+    min-height: 100vh;
+    width: 100%;
+background-image: linear-gradient(rgba(4,9,30,0.7),
+rgba(4,9,30,0.7)),url("/image/head.png");
+position: relative;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+h1{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+    margin: 19px;
+}
+
+p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px
+}
+
+aside{
+    margin-top: 2%;
+    margin: 0 9%;
+}
+
+nav a:link {
+    color: rgb(228, 237, 241);
+    text-decoration: none;
+}
+nav a:visited {
+    color: rgb(71, 218, 255);
+}
+
+nav a:hover {
+    
+    color: unset;
+}
+
+nav > ul {
+    display: inline;
+    padding: 0;
+    position: absolute;
+    top: 3px;
+    right: 4px;
+    margin-top: 2%;
+    margin: 0 9%;
+}
+
+nav > ul > li {
+    display: inline-block;
+    list-style: none;
+    margin: 0 5px 0 5px;   
+}
+
+article{
+    text-align: center; 
+    color: white;
+}
+
+.hed {
+    font-weight: 600;
+    font-size: 48px;
+    font-family: Poppins;
+    font-style: normal;
+}
+
+.intro {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px
+}
+
+.channels {    
+    text-align: center; 
+    display:flex;
+    justify-content: space-around; 
+    margin: 50px 0 50px 0;     
+}
+a.channel:hover{
+    background-color: rgb(99, 99, 177);
+    size: inherit;
+
+}
+
+.cona {
+ text-align: center;
+}
+
+.contact{
+    position: relative;
+    font-weight: bold;
+    padding: 15px;
+    border-radius: 32px;
+    opacity: 70%;
+    left: 590px;
+    margin: 20px 0 40px 0;
+    font-family: poppins;
+    color:white;
+    font-size: 24px;
+    background: black;
+    
+}
+
+#tact {
+    text-decoration: none;
+    color: white;
+}
+
+.contact:hover{
+    font-size: 130%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
